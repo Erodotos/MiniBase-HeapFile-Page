@@ -11,13 +11,14 @@ You will be implementing just the HFPage class, and not all of the HeapFile code
 
 ## Compiling Your Code and Running the Tests
 
-Please Download the the files for Phase 2 from here phase2.tar.gz into your working directory.
+Please Download the the files from the repository into your working directory.
 
-cd project
-tar -zxvf phase2.tar.gz
 Now you will see 3 generated directories:
+
 lib/
+
 include/
+
 src/
 
 src/ contains the files you will be working on. If you cd src/ and then make the project, it will create an executable named hfpage . Right now, it does not work; you will need to fill in the bodies of the HFPage class methods. The methods are defined (empty) in file hfpage.C.
