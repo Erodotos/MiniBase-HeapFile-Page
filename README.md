@@ -26,7 +26,7 @@ Design Overview and Implementation Details
 
 Have a look at the file hfpage.h in include/. It contains the interfaces for the HFPage class. This class implements a "heap-file page" object. Note that the protected data members of the page are given to you. All you should need to do is implement the public member functions. You should put all your code into the file src/hfpage.C.
 
-![alt text](https://ibb.co/8dmLHDr)
+![Heap File Representation](https://i.ibb.co/YyNFx7c/dire.gif)
 
 
 
